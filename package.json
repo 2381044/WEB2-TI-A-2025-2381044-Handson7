@@ -15,5 +15,9 @@
     "url": "https://github.com/2381044/vercel-deploy-demo/issues"
   },
   "homepage": "https://github.com/2381044/vercel-deploy-demo#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.14.1"
+  }
 }
